@@ -1,0 +1,4 @@
+*
+!.gitignore
+!my_file_cutter.py
+!file_cutter.py
